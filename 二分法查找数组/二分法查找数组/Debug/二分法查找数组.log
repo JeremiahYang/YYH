@@ -1,0 +1,4 @@
+﻿  二分法查找数组.cpp
+c:\users\y1851\source\repos\二分法查找数组\二分法查找数组\二分法查找数组.cpp(30): error C2131: 表达式的计算结果不是常数
+  c:\users\y1851\source\repos\二分法查找数组\二分法查找数组\二分法查找数组.cpp(30): note: 因读取超过生命周期的变量而失败
+  c:\users\y1851\source\repos\二分法查找数组\二分法查找数组\二分法查找数组.cpp(30): note: 请参见“b”的用法
